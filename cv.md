@@ -26,13 +26,13 @@ My goal is to make this world a little better.
 + W3C standards
 
 ### Code examples
-[https://jimakpasha.github.io/Ph_Nikitina/][]
-[https://jimakpasha.github.io/barber-academy/][]
-[https://jimakpasha.github.io/YR-BeSlim/][]
-[https://jimakpasha.github.io/CosmoMED/][]
-[https://jimakpasha.github.io/o...marketing/][]
-[https://github.com/JimakPasha/glee.git][]
-[https://github.com/JimakPasha/marcho.git][]
++ [https://jimakpasha.github.io/Ph_Nikitina/][]
++ [https://jimakpasha.github.io/barber-academy/][]
++ [https://jimakpasha.github.io/YR-BeSlim/][]
++ [https://jimakpasha.github.io/CosmoMED/][]
++ [https://jimakpasha.github.io/o...marketing/][]
++ [https://github.com/JimakPasha/glee.git][]
++ [https://github.com/JimakPasha/marcho.git][]
 
 ### Experience
 + courses html-coder 2020
