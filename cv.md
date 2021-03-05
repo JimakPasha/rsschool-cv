@@ -30,7 +30,7 @@ My goal is to make this world a little better.
 + [Ph_Nikitina](https://jimakpasha.github.io/Ph_Nikitina/)
 + [Barber-Academy](https://jimakpasha.github.io/barber-academy/)
 + [YR-BeSlim](https://jimakpasha.github.io/YR-BeSlim/)
-+ [CosmoMED][(ttps://jimakpasha.github.io/CosmoMED/)
++ [CosmoMED](ttps://jimakpasha.github.io/CosmoMED/)
 + [o...marketing](https://jimakpasha.github.io/o...marketing/)
 
 ###### Code examples
