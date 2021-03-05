@@ -25,14 +25,17 @@ My goal is to make this world a little better.
 + SCSS, Gulp, Git
 + W3C standards
 
-### Code examples
-+ [https://jimakpasha.github.io/Ph_Nikitina/][]
-+ [https://jimakpasha.github.io/barber-academy/][]
-+ [https://jimakpasha.github.io/YR-BeSlim/][]
-+ [https://jimakpasha.github.io/CosmoMED/][]
-+ [https://jimakpasha.github.io/o...marketing/][]
-+ [https://github.com/JimakPasha/glee.git][]
-+ [https://github.com/JimakPasha/marcho.git][]
+### My projects
+###### Websites (html-coder)
++ [Ph_Nikitina][https://jimakpasha.github.io/Ph_Nikitina/]
++ [Barber-Academy][https://jimakpasha.github.io/barber-academy/]
++ [YR-BeSlim][https://jimakpasha.github.io/YR-BeSlim/]
++ [CosmoMED][https://jimakpasha.github.io/CosmoMED/]
++ [o...marketing][https://jimakpasha.github.io/o...marketing/]
+
+###### Code examples
++ [glee][https://github.com/JimakPasha/glee.git]
++ [marcho][https://github.com/JimakPasha/marcho.git]
 
 ### Experience
 + courses html-coder 2020
